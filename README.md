@@ -1,4 +1,4 @@
-git clone github.com/kacakb/xs-/
+git clone github.com/kacakb/xs-.git
 
 chmod +x otosxss.sh
 
